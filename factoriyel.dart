@@ -8,4 +8,5 @@ void faktoriyel_1(int N) {
     faktoriyel2 *= i;
   }
   print(faktoriyel2);
+  print(faktoriyel2);
 }
